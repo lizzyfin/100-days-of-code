@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 6: January 6, 2017 
+### Day 3: January 6, 2017 
 
 **Today's Progress**: Read and worked through GitHub 'Hello World' Guide to see how commits and pull requests work. Now, I've updated and logged my progress here.
 
