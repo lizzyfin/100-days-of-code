@@ -1,30 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 6: January 6, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Read and worked through GitHub 'Hello World' Guide to see how commits and pull requests work. Now, I've updated and logged my progress here.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Read the Introduction and first two chapters of http://eloquentjavascript.net/. Also completed exercises at the end of Chapter 2: Looping a triangle, FizzBuzz, and Chess board. Figured I needed some 'back to basics' as I was having some confusion with functions and callbacks in a general sense.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Really cool code editor within and among the text of eloquentjavascript which encourages the reader to "consume" the coding examples by making changes to the given code and see how the output changes in response. Love the style of writing! Good progress was made today on basic JS.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** http://eloquentjavascript.net/
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 2: January 5, 2017 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Worked on Random Quote Generator
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: Took a while to figure out it's harder to convert XML output to JSON, so will read up and re-do.
+
+**Link(s) to work**: signed up to mashape.com via github account to work with APIs
 
 
-### Day 1: June 27, Monday
+### Day 1: January 4, Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Joined Twitter as @FinLizzy5. Following fellow 100DaysofCode FCCers, among others.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I started Free Code Camp in November 2016 and have really enjoyed my progress so far. Just started the Intermediate Front End Dev Projects which should jive with 100 Days of Coding!
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. my twitter https://twitter.com/FinLizzy5
+2. my first stab at a portfolio on CodePen https://codepen.io/LizzyFin/pen/xRZONz
