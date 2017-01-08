@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 8, 2017 
+
+**Today's Progress**: Yesterday was my break day for the week.
+
+Read chapters 3 and 4 of http://eloquentjavascript.net/. Also re-worked the exercises at the end of Chapter 3: Looping a triangle, FizzBuzz, and Chess board. 
+
+**Thoughts:** My confusion about functions has somewhat cleared up but I have to admit that recursion can be a big bit to wrap your head around.
+
+**Link to work:** http://eloquentjavascript.net/
+
 ### Day 3: January 6, 2017 
 
 **Today's Progress**: Read and worked through GitHub 'Hello World' Guide to see how commits and pull requests work. Now, I've updated and logged my progress here.
