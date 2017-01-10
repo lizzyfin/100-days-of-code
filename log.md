@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 9, 2017 
+
+**Today's Progress**: Read chapter 4 of http://eloquentjavascript.net/ and worked through the exercises at the end ofthe  Chapter. 
+
+**Thoughts:** Exercises seem to be going well. It could be interesting to compare the demo code results with the code that I'm using to complete the exercises. Not going to peek yet so I don't spoil the surprise.
+
+**Link to work:** http://eloquentjavascript.net/
+
 ### Day 4: January 8, 2017 
 
 **Today's Progress**: Yesterday was my break day for the week.
