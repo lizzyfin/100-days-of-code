@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 20, 2017 
+
+**Today's Progress**: Worked on local weather project on CodePen. Got most of the numbers showing up and converted to meaningful values. Next to work on presentation.
+
+**Thoughts:**  Learned about using the results from one API to feed into a second API on the same page. 
+
+**Link to work:**http://codepen.io/LizzyFin/pen/egdoyr
+
 
 ### Day 14: January 19, 2017 
 
