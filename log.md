@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 23, 2017 
+
+**Today's Progress**: Got the celsius to fahrenheit temp conversion working for my FCC Weather App which satisfies the third user story. Presentation at this point is a too basic black on white with a single icon.
+
+**Thoughts:**  Learned about .toPrecision and Math.round for presenting numbers without all those digits. 
+
+**Link to work:**http://codepen.io/LizzyFin/pen/egdoyr
+
+
 ### Day 15: January 20, 2017 
 
 **Today's Progress**: Worked on local weather project on CodePen. Got most of the numbers showing up and converted to meaningful values. Next to work on presentation.
