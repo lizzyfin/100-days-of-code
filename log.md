@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 24, 2017 
+
+**Today's Progress**: Messed around with CSS for FCC Weather App by making background change color based on sunrise time, among a few other things.
+
+**Thoughts:**  This weather app is a page that could be further improved as it's pretty simple as far as the information it's sharing on the screen. Future versions could include a means for the user to enter their location more precisely as their IP is currently used to detect their location. 
+
+**Link to work:**http://codepen.io/LizzyFin/pen/egdoyr
+
+
 ### Day 16: January 23, 2017 
 
 **Today's Progress**: Got the celsius to fahrenheit temp conversion working for my FCC Weather App which satisfies the third user story. Presentation at this point is a too basic black on white with a single icon.
