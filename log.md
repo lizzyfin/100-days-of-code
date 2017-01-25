@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 25, 2017 
+
+**Today's Progress**: Submitted weather app to FCC. Started mapping out the steps needed to complete the Wikipedia Viewer project for FCC.
+
+**Thoughts:**  Will have to use an HTML form to pass search terms to wikimedia. Then, format results to look nice on the page. Sounds easy, yet complicated with all that info I just perused on the wiki site.
+
+**Link to work:** No coding today, just planning out steps for the project.
+
+
 ### Day 17: January 24, 2017 
 
 **Today's Progress**: Messed around with CSS for FCC Weather App by making background change color based on sunrise time, among a few other things.
