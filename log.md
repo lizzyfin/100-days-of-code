@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 26, 2017 
+
+**Today's Progress**: Worked on Wikipedia Viewer project for FCC.
+
+**Thoughts:**  Need HTML form to pass search terms to wikimedia and probably have to build url with search terms using JS. Looking into generator steps on wiki. Random wiki button works.
+
+**Link to work:** https://codepen.io/LizzyFin/pen/jyGaWM
+
+
 ### Day 18: January 25, 2017 
 
 **Today's Progress**: Submitted weather app to FCC. Started mapping out the steps needed to complete the Wikipedia Viewer project for FCC.
