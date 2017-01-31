@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 20: January 31, 2017 
+
+**Today's Progress**: Worked on Wikipedia Viewer project for FCC and it looks simple and works fine.
+
+**Thoughts:**  Could improve the viewer by adding code to allow for search term to be entered with hitting the Enter key and not click on the Search button. Functionally, it works fine as it stands now but this would be a definite improvement.
+
+**Link to work:** https://codepen.io/LizzyFin/full/jyGaWM
+
+
 ### Day 19: January 26, 2017 
 
 **Today's Progress**: Worked on Wikipedia Viewer project for FCC.
