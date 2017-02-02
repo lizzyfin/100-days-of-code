@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 22: February 2, 2017 
+
+**Today's Progress**: Finished up Wikipedia Viewer project for FCC by adding footer with my 'hooks' or other places you can catch me online. Used FontAwesome icons to pretty up the footer.
+
+**Thoughts:**  CSS can be tricky, esp. if you've been dealing with different versions of Bootstrap. Of course, it would help tremendously to know Bootstrap very well and be aware to which version and through what CDN it is linked.
+
+**Link to work:** https://codepen.io/LizzyFin/full/jyGaWM
+
+
+### Day 21: February 1, 2017 
+
+**Today's Progress**: Fixed functionality of Wikipedia Viewer by adding keypress function to accept enter of search term as well as clicking on search button.
+
+**Thoughts:**  Next improvement should be to add a few icons for a 'signature' in a footer and bother with the CSS a little.
+
+**Link to work:** https://codepen.io/LizzyFin/full/jyGaWM
+
+
 ### Day 20: January 31, 2017 
 
 **Today's Progress**: Worked on Wikipedia Viewer project for FCC and it looks simple and works fine.
